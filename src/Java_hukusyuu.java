@@ -1,4 +1,4 @@
-public class java_hukusyuu {
+public class Java_hukusyuu {
     public static void main(String[] args){
         //復習問題１
         System.out.print("こんにちは。");
