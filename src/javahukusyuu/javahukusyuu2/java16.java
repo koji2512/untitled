@@ -1,3 +1,5 @@
+package javahukusyuu.javahukusyuu2;
+
 public class java16 {
     public static void main(String[] args) {
         int num = 4;
