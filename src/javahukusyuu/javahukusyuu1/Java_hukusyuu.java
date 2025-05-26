@@ -1,3 +1,5 @@
+package javahukusyuu.javahukusyuu1;
+
 public class Java_hukusyuu {
     public static void main(String[] args) {
         //復習問題１
