@@ -1,7 +1,7 @@
-package javahukusyuu.javahukusyuu3;
+package javahukusyuu.javahukusyuu3.java28;
 
 import java.io.*;
-public class Java28 {
+public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.print("宛先を入力＞");

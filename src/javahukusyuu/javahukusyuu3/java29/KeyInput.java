@@ -1,4 +1,4 @@
-package javahukusyuu.javahukusyuu3;
+package javahukusyuu.javahukusyuu3.java29;
 
 import java.io.*;
 public class KeyInput {

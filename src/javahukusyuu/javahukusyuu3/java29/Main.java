@@ -1,6 +1,6 @@
-package javahukusyuu.javahukusyuu3;
+package javahukusyuu.javahukusyuu3.java29;
 
-public class Java29 {
+public class Main {
     public static void main(String[] args) {
         KeyInput key=new KeyInput();
         System.out.print("宛先を入力＞");

@@ -1,4 +1,4 @@
-package javahukusyuu.javahukusyuu3;
+package javahukusyuu.javahukusyuu3.java28;
 
 public class Email {
     public void send(String to, String body){
